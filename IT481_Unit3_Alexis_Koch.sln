@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IT481_Unit3_Alexis_Koch", "IT481_Unit3_Alexis_Koch\IT481_Unit3_Alexis_Koch.csproj", "{C5D3DED9-3340-43D9-AE93-2E4F9CA3B926}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IT481_Alexis_Koch_Unit9", "IT481_Alexis_Koch_Unit9\IT481_Alexis_Koch_Unit9.vdproj", "{10915709-CC73-4E81-B687-0636EB2D9304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D3DED9-3340-43D9-AE93-2E4F9CA3B926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D3DED9-3340-43D9-AE93-2E4F9CA3B926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D3DED9-3340-43D9-AE93-2E4F9CA3B926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D3DED9-3340-43D9-AE93-2E4F9CA3B926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10915709-CC73-4E81-B687-0636EB2D9304}.Debug|Any CPU.ActiveCfg = Debug
+		{10915709-CC73-4E81-B687-0636EB2D9304}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7642A7A7-68E1-40C7-B54E-19D46A537C8D}
+	EndGlobalSection
+EndGlobal
